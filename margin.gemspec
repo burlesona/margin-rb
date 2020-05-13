@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.description   = "Converts margin-formatted text into Ruby data (or the inverse), and can also import and export compatible JSON."
   spec.homepage      = "https://aburleson.com"
   spec.license       = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 2.6.0")
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/burlesona/margin-rb"
